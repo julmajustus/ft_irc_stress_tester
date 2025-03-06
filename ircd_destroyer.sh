@@ -1,4 +1,17 @@
 #!/bin/bash
+
+
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    ircd_destroyer.sh                                  :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: jmakkone <jmakkone@student.hive.fi>        +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2025/03/06 18:37:07 by jmakkone          #+#    #+#              #
+#    Updated: 2025/03/06 18:37:07 by jmakkone         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
 # A modular IRC server stress test script.
 # WARNING: This script is designed to stress (and potentially break) your IRC server.
 # Use it only in a controlled test environment!
