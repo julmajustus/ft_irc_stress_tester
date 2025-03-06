@@ -32,8 +32,8 @@
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/irc_destroyer.git
-   cd irc_destroyer
+   git clone https://github.com/julmajustus/ft_irc_stress_tester.git
+   cd ft_irc_stress_tester
    ```
 
 2. Ensure ircd_destroyer.sh is executable:
