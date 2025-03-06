@@ -88,7 +88,7 @@ NAMES
 QUIT :Info gathering done
 EOF
 
-    nc -C "$SERVER" "$PORT" < "$tmp_cmd" > "$tmp_out"
+    nc -C -w "$TIMEOUT" "$SERVER" "$PORT" < "$tmp_cmd" > "$tmp_out"
 
     G_CHANNELS=()
     G_USERS=()
